@@ -1,0 +1,25 @@
+/*Global*/
+*, *::before, *::after {
+    box-sizing: border-box; }
+
+body {
+    margin: auto;
+    padding-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    }
+
+.chorus {
+    font-style: italic;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-style: italic;
+    margin-top: -35px;
+    margin-bottom: 25px;
+}
