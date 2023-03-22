@@ -44,3 +44,17 @@ More information:
 
 
 48530@Creatio MINGW64 /n/projekty/kodilla/learning-git-2 (master)
+48530@Creatio MINGW64 /n/projekty/kodilla/learning-git-2 (master)
+$ git push
+Everything up-to-date
+
+48530@Creatio MINGW64 /n/projekty/kodilla/learning-git-2 (master)
+$ git commit -m "Add NPM"
+[master 7870f23] Add NPM
+ 4 files changed, 5370 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 komendy.txt
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+
+
